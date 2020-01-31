@@ -1,5 +1,6 @@
 {
     "name": "rossjcooper/numbers-api",
+    "description": "A Guzzle powered HTTP client for the numbersapi.com API.",
     "type": "library",
     "require": {
         "php": ">=5.5",
