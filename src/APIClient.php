@@ -4,6 +4,7 @@ namespace Rossjcooper\NumbersAPI;
 
 use GuzzleHttp\Client;
 use GuzzleHttp\ClientInterface;
+use Rossjcooper\NumbersAPI\Interfaces\APIClientInterface;
 
 /**
  * An API client for getting results from the NumbersAPI
